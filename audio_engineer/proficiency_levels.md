@@ -9,9 +9,10 @@ Everyone must have Sun-level competency to advance onto the next competency leve
 - Sun: Levels, Gain, Setup / tear down, Applying presets
 - Murcury: EQ
 - Venus: Compression
-- Earth: Effects
+- Earth: Common Effects
+- Mars: Routing
 
-# One: Sun
+# Sun
 
 ## Expectations
 
@@ -25,7 +26,7 @@ Be able to run a Sunday morning service without assistance. If something goes wr
 - Setup / teardown: Able to bring the stage to life and tear it down after service without assistance.
 - Applying Presets: Know how the presets are structured and be able to select a pleasing one from a group of candiidates.
 
-# Two: Moon
+# Moon
 
 ## Expectations
 
@@ -39,7 +40,7 @@ Ability to tune EQ curves for a more pleasing atmosphere.
 - Understand / mitigate the concept of "clashing" instruments
 - Understand / implement the concept of coloring a sound.
 
-# Three: Pluto
+# Pluto
 
 ## Expectations
 
@@ -52,8 +53,28 @@ Ability to control dynamics effectively.
 - Hear what "Too much compression" sounds like.
 - Hear when to apply compression, limiting, expansion, and gating.
 
-# Four: Earth
+# Earth
 
 ## Expectations
 
 Be able to manipulate effects to provide more atmosphere
+
+## Competencies
+
+- Understand the difference between time, pitch, and tone effects.
+- Demonstrate understanding of which reverb-type to choose in what situations.
+- Demonstrate understanding of when to use reverb
+- Demonstrate understanding of chorus and delay.
+- Domenostrate how to learn more about a lesser used effect.
+
+# Mars
+
+## Expectations
+
+Be able to route and re-route the sound baord.
+
+## Competencies
+
+- Understand the difference between matrix, bus, and other routing types (obviously Bobby hasn't hit this level yet)
+- Explain when to use the different routing types
+- Be able to recreate a workable sound board with a blank canvas.
