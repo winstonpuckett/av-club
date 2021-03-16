@@ -7,7 +7,6 @@
 
 ## Currently filled by
 
-- James Bradburn
 - Bobby Puckett
 
 # Facilitator
