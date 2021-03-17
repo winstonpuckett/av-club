@@ -9,6 +9,8 @@
 
 - Bobby Puckett
 
+<br>
+
 # Facilitator
 
 ## Role purpose
@@ -18,6 +20,8 @@
 ## Currently filled by
 
 - Bobby Puckett
+
+<br>
 
 # Schedule wizard
 
@@ -29,6 +33,8 @@
 
 - Bobby Puckett
 
+<br>
+
 # Audio engineer
 
 ## Role Purpose
@@ -38,6 +44,8 @@
 ## Currently filled by
 
 - Bobby Puckett
+
+<br>
 
 # Live, visual coordinator
 
@@ -49,6 +57,8 @@
 
 - ??
 
+<br>
+
 # Stream coordinator
 
 ## Role pupose
@@ -58,6 +68,8 @@
 ## Currently filled by
 
 - ??
+
+<br>
 
 # Stream moderator
 
