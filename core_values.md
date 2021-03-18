@@ -2,7 +2,7 @@
 
 Core values allow team members to act autonomously in unison.
 
-# Values
+# Overview
 
 - Consistency
 - Simplicity
@@ -27,10 +27,8 @@ Core values allow team members to act autonomously in unison.
 
 # Curiosity
 
-We value quality over tradition. That is to say, we are in a constant search for better ways of producing sound in each other's techniques and in the world around us.
 - We value quality over tradition.
 - We believe our current knowledge is incomplete.
 - We believe a better answer lies outside of us.
-- We search individually to further our knowledge-base.
-- We ask questions when we don't know something.
-- We 
+- We value research outside of the group.
+- We value questions to the group.
