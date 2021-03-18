@@ -26,7 +26,7 @@ Be able to run a Sunday morning service without assistance. If something goes wr
 - Setup / teardown: Able to bring the stage to life and tear it down after service without assistance.
 - Applying Presets: Know how the presets are structured and be able to select a pleasing one from a group of candiidates.
 
-# Moon
+# Murcury
 
 ## Expectations
 
@@ -40,7 +40,7 @@ Ability to tune EQ curves for a more pleasing atmosphere.
 - Understand / mitigate the concept of "clashing" instruments
 - Understand / implement the concept of coloring a sound.
 
-# Pluto
+# Venus
 
 ## Expectations
 
