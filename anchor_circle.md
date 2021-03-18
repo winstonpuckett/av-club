@@ -35,7 +35,7 @@
 
 <br>
 
-# Audio engineer
+# Audio operator
 
 ## Role Purpose
 
