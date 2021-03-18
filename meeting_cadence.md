@@ -8,6 +8,8 @@ To ensure that everyone is heard and can bring sensitive issues to the table. Th
 
 Once a month for each team member.
 
+<br>
+
 # Retrospectives
 
 ## Purpose
@@ -17,6 +19,8 @@ To develop action items based on the past month.
 ## Meeting frequency
 
 Once a month.
+
+<br>
 
 # Training sessions
 
