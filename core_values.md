@@ -15,7 +15,7 @@ Core values allow team members to act autonomously in unison.
 - We are safe to ask others for help.
 - We take pride in the quality of our work.
 - We are aware of needs of the moment, and strive to adjust quickly.
-- We are aware of procedures in place to improve quality.
+- We are aware of procedures in place to improve quality and act on them unless unwise.
 
 # Simplicity
 
