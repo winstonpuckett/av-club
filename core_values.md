@@ -31,4 +31,5 @@ Core values allow team members to act autonomously in unison.
 - We believe our current knowledge is incomplete.
 - We believe a better answer lies outside of us.
 - We value research outside of the group.
+- We value training between team members
 - We value questions.
