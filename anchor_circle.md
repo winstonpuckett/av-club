@@ -47,7 +47,7 @@
 
 <br>
 
-# Live, visual coordinator
+# Live, visual operator
 
 ## Role purpose
 
@@ -59,7 +59,7 @@
 
 <br>
 
-# Stream coordinator
+# Stream audio/visual operator
 
 ## Role pupose
 
