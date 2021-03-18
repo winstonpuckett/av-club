@@ -33,4 +33,4 @@ We value quality over tradition. That is to say, we are in a constant search for
 - We believe a better answer lies outside of us.
 - We search individually to further our knowledge-base.
 - We ask questions when we don't know something.
-- We evaluate solutions based on "result and complexity" instead of how much they align with our current understanding.
+- We 
