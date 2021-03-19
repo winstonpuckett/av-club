@@ -24,6 +24,40 @@
 
 # Visual operator
 
+**Purpose: To operate the visual elements (overheads, for instance) for the live service**
+
+## Startup process:
+
+1. Turn on stage lights.
+1. Start Projectors.
+1. Turn on computer / log in.
+1. Start pro-presenter.
+1. Input slide sheets.
+
+## Performance process:
+
+1. Follow cues
+
+## Teardown process:
+
+1. Turn off projectors.
+1. Save any unsaved song sheets.
+1. Turn off computer.
+
 # Stream operator
+
+**Purpose: To create pleasant stream visuals and work with the audio engineer to create pleasant audio**
+
+## Startup process:
+
+1. Turn on cameras.
+1. Start computer / log in.
+1. Connect to audio interface.
+1. Test quality.
+
+## Teardown process:
+
+1. Turn off cameras.
+1. Shutdown computer
 
 # Audio engineer
