@@ -75,4 +75,4 @@
 1. Notate and reset temporary fixes.
 1. Turn off speakers / monitors.
 1. Turn off soundboard.
-1. put cover over soundboard.
+1. Put cover over soundboard.
