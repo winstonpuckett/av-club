@@ -6,7 +6,7 @@ Levels are in place to set expectations to leadership, not to limit the power of
 
 Everyone must have Sun-level competency to advance onto the next competency level. While the order is recommended as Sun, Murcury, Venus, and Earth, a partner may elect to follow a different path according to desire and situation.
 
-- Sun (yellow): Levels, Gain, Setup / tear down, Applying presets
+- Sun (yellow): Levels, Gain, Setup / tear down, Applying presets, Basic routing
 - Murcury (silver): EQ
 - Venus (rose): Compression
 - Earth (blue): Common Effects
@@ -16,7 +16,7 @@ Everyone must have Sun-level competency to advance onto the next competency leve
 
 ## Expectations
 
-Be able to run a Sunday morning service without assistance. If something goes wrong, they may have to contact a more advanced level.
+Be able to run a Sunday morning service without assistance. If something goes horribly wrong, they may have to contact a more advanced level.
 
 ## Competencies
 
@@ -25,6 +25,7 @@ Be able to run a Sunday morning service without assistance. If something goes wr
 - Gain: Be able to run into the board so that compression is not overwhelmed and the slider itself is an effective tool.
 - Setup / teardown: Able to bring the stage to life and tear it down after service without assistance.
 - Applying Presets: Know how the presets are structured and be able to select a pleasing one from a group of candiidates.
+- Basic Routing: Know how to add or remove instruments from the stage using predefined input numbers.
 
 # Murcury
 
