@@ -24,7 +24,7 @@
 
 # Visual operator
 
-**Purpose: To operate the visual elements (overheads, for instance) for the live service**
+**Purpose: To operate the visual elements (overheads, for instance) for the live service.**
 
 ## Startup process:
 
@@ -34,10 +34,6 @@
 1. Start pro-presenter.
 1. Input slide sheets.
 
-## Performance process:
-
-1. Follow cues
-
 ## Teardown process:
 
 1. Turn off projectors.
@@ -46,7 +42,7 @@
 
 # Stream operator
 
-**Purpose: To create pleasant stream visuals and work with the audio engineer to create pleasant audio**
+**Purpose: To create pleasant stream visuals and work with the audio engineer to create pleasant audio.**
 
 ## Startup process:
 
@@ -61,3 +57,22 @@
 1. Shutdown computer
 
 # Audio engineer
+
+**Purpose: To create an intelligible and pleasing audio atmosphere.**
+
+## Startup Process:
+
+1. Turn on soundboard.
+1. Turn on speakers / monitors.
+1. Roughly position instruments according to assumed preferences of performers.
+1. Set gain for each instrument.
+1. Roughly level instruments
+1. Choose pleasing presets for reverb, compression.
+
+## Teardown Process:
+
+1. Organize stage.
+1. Notate and reset temporary fixes.
+1. Turn off speakers / monitors.
+1. Turn off soundboard.
+1. put cover over soundboard.
