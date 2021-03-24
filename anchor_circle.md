@@ -3,23 +3,10 @@
 ## Role purpose
 
 - Hold overall purpose for the circle
-- Hold responsibility for filling roles
 
 ## Currently filled by
 
-- ??
-
-<br>
-
-# Facilitator
-
-## Role purpose
-
-- Coordinate and facilitate non-technical meetings
-
-## Currently filled by
-
-- ??
+- Bobby Puckett
 
 <br>
 
@@ -31,11 +18,23 @@
 
 ## Currently filled by
 
-- ??
+- Megan Barkman
 
 <br>
 
-# Audio operator
+# Facilitator
+
+## Role purpose
+
+- Facilitate meetings from a process standpoint.
+
+## Currently filled by
+
+- Bobby Puckett
+
+<br>
+
+# Audio Artist
 
 ## Role Purpose
 
