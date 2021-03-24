@@ -2,7 +2,7 @@
 
 ## Role purpose
 
-- Hold overall purpose for the circle
+- To connect people and God by holding the overall purpose for the circle.
 
 ## Currently filled by
 
@@ -14,7 +14,7 @@
 
 ## Role purpose
 
-- To balance who is responsible for what in a given event.
+- To help connect people and God by making sure that roles are filled for given events.
 
 ## Currently filled by
 
@@ -26,7 +26,7 @@
 
 ## Role purpose
 
-- Facilitate meetings from a process standpoint.
+- To help the team connect people and God by facilitating meetings from a process standpoint.
 
 ## Currently filled by
 
@@ -38,19 +38,20 @@
 
 ## Role Purpose
 
-- To run sound for the live event
+- To connect people and God by crafting intelligible, pleasing audio for an event.
 
 ## Currently filled by
 
-- ??
+- James Bradburn
+- Bobby Puckett
 
 <br>
 
-# Live, visual operator
+# Live, visual artist
 
 ## Role purpose
 
-- To make sure the visuals for the event line up with cues and are, overall, pleasing 
+- To connect people and God by making sure the live visuals for the event forward the message and tone.
 
 ## Currently filled by
 
@@ -58,11 +59,11 @@
 
 <br>
 
-# Stream audio/visual operator
+# Stream audiovisual artist
 
 ## Role pupose
 
-- To make sure the visuals and audio for what gets streamed is both intelligible and pleasing.
+- To connect people and God by making sure the visuals and audio for what gets streamed is both intelligible and pleasing.
 
 ## Currently filled by
 
@@ -74,8 +75,8 @@
 
 ## Role purpose
 
-- To ensure the community that consumes the stream feels loved, heard, and connected with.
-- To ensure the community that consumes the stream feels safe.
+- To connect people and God by ensuring the community that consumes the stream feels loved, heard, and connected with.
+- To connect people and God by ensuring the community that consumes the stream feels safe.
 
 ## Currently filled by
 
