@@ -1,0 +1,13 @@
+- dSnake: Get sound from stage to board.
+- Board: Mixing, gain, etc.
+- To Speakers:
+  - dbx module: Split Sub/Master frequency.
+  - QCS amps: Boost signal for the passive amplifiers.
+  - Spearkers / subwoofers.
+- To Stream:
+  - Stereo DI: Convert signal to appropriate type
+  - ATEM Mini: Video / Audio switcher
+  - MAC: Control ATEM Mini / Boxcaster
+- To Monitors:
+  - dSnake: Get sound from board to stage.
+  
