@@ -6,15 +6,15 @@
 
 Hi, I've been named as the team lead for audiovisuals. I'm really excited to be part of this and work alongside you guys. I love learning and growing together and I see opportunities for all of us to be part of something spectacular.
 
-I see my major role as casting vision and cultivating culture. This is in contrast with a manager, who's major job is pushing down on people until they fit into a mold. My role is more to make sure that the sound team could function if I was hit by a bus, which is less about keeping people in line, and more about setting up a neutrient rich environment for people to flourish in. There are a couple of implications of this style of leadership that you should be aware of.//Because of the nature of that style of leadership, I'm expecting more of an investment than a typical volunteer position.
+I see my major role as casting vision and cultivating culture. In contrast with a manager, my role is more to make sure that the sound team could function if I was hit by a bus, which is less about keeping people in line, and more about setting up a neutrient rich environment for people to flourish in. Of course, this style of leadership means that you are not treated as volunteers, but team members.
 
-We love and honor chair stackers. I have stacked chairs in every church that I've attended. When people come up to me and ask how to get on their church's worship team, I respond with, start stacking chairs. But the level of team-cohesion it takes to stack chairs effectively is much lower than that of an effective sound team. So what I'm inviting you to is to be part of a larger story, to think creatively, move with purpose, and have a powerful voice.
+What's the difference? Well, we love and honor chair stackers. I have stacked chairs in every church that I've attended. When people come up to me and ask how to get on their church's worship team, I respond with, start stacking chairs. But the level of team-cohesion it takes to stack chairs effectively is much lower than that of an effective audiovisual team. So what I'm inviting you to is to be part of a larger story, to think creatively, move with purpose, and have a powerful voice.
 
-We, the audiovisualteam, exist as a foundational part of the church that provides a vital aspect of connecting people to the presence of God. And so we carry that purpose with an equal amount of zeal for our craft.
+We, the audiovisualteam, exist as a foundational part of the church that provides a vital aspect of connecting people to the presence of God. And so we carry that purpose with an equal amount of zeal for our craft and all share in responsibility for team dynamics.
 
-Now, I'm probably scaring some of you. This is not a 40 hour a week job you accidentally signed up for and we are very concerned with burnout. What we're representing here is the type of team we are cultivating - One moving in unity, with purpose.
+Now, I might be scaring some of you. This is not a 40 hour a week job you accidentally signed up for and we are very concerned with burnout. What we're representing here is the type of team we are cultivating - One moving in unity, with purpose.
 
-In addition, you don't have to be good at this on day one to join the team. No one is. Let me repeat that (put hand on chest), no one is.
+In addition, you don't have to be good at this on day one to join the team.
 
 Before we move on to our core values, does anyone have any questions, comments, or favorite colors?
 
