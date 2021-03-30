@@ -14,7 +14,7 @@
 
 ## Role purpose
 
-- To help connect people and God by making sure that roles are filled for given events.
+- To connect people and God by making sure that roles are filled for given events.
 
 ## Currently filled by
 
