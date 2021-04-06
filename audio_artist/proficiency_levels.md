@@ -25,7 +25,8 @@ Be able to run a Sunday morning service without assistance. If something goes ho
 - Gain: Be able to run into the board so that compression is not overwhelmed and the slider itself is an effective tool.
 - Setup / teardown: Able to bring the stage to life and tear it down after service without assistance.
 - Applying Presets: Know how the presets are structured and be able to select a pleasing one from a group of candiidates.
-- Basic Routing: Know how to add or remove instruments from the stage using predefined input numbers.
+- Basic Routing: Know how to add or remove instruments from the stage.
+- Labeling: Know how to see the channel number. (Bonus: know how to give a channel a name.)
 - Soundcheck: Ask for a loud sound from each instrument individually. 
 - Phantom Power (48v): Describe which instruments might need this and how you might know.
 - Auxes: Be able to turn up/down instruments in the monitor and the live stream.
