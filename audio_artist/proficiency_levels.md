@@ -26,6 +26,8 @@ Be able to run a Sunday morning service without assistance. If something goes ho
 - Setup / teardown: Able to bring the stage to life and tear it down after service without assistance.
 - Applying Presets: Know how the presets are structured and be able to select a pleasing one from a group of candiidates.
 - Basic Routing: Know how to add or remove instruments from the stage using predefined input numbers.
+- Soundcheck: Ask for a loud sound from each instrument individually. 
+- Phantom Power (48v): Describe which instruments might need this and how you might know.
 
 # Murcury
 
