@@ -9,10 +9,10 @@ Everyone must have Sun-level competency to advance onto the next competency leve
 - Core Knowledge: Levels, Gain, Setup / tear down, Applying presets, Basic routing
 - EQ
 - Compression
-- Common Effects
+- Reverb
 - Routing
 
-# Sun
+# Core Knowledge
 
 ## Expectations
 
@@ -31,7 +31,7 @@ Be able to run a Sunday morning service without assistance. If something goes ho
 - Phantom Power (48v): Describe which instruments might need this and how you might know.
 - Auxes: Be able to turn up/down instruments in the monitor and the live stream.
 
-# Murcury
+# EQ
 
 ## Expectations
 
@@ -45,7 +45,7 @@ Ability to tune EQ curves for a more pleasing atmosphere.
 - Understand / mitigate the concept of "clashing" instruments
 - Understand / implement the concept of coloring a sound.
 
-# Venus
+# Compression
 
 ## Expectations
 
@@ -58,7 +58,7 @@ Ability to control dynamics effectively.
 - Hear what "Too much compression" sounds like.
 - Hear when to apply compression, limiting, expansion, and gating.
 
-# Earth
+# Reverb
 
 ## Expectations
 
@@ -66,11 +66,11 @@ Be able to manipulate effects to provide more atmosphere
 
 ## Competencies
 
-- Understand the difference between time, pitch, and tone effects.
-- Demonstrate understanding of which reverb-type to choose in what situations.
-- Demonstrate understanding of when to use reverb
-- Demonstrate understanding of chorus and delay.
-- Domenostrate how to learn more about a lesser used effect.
+- Describe differences beteween reverb types.
+- Demonstrate understanding of when to use each reverb type.
+- Demonstrate understanding of how much reverb to use.
+- Demonstrate understanding of what happens to reverb when you're far from the speaker.
+- Demonstrate understanding of decay time, diffusion/dampening, hp/lp, predelay, size, 
 
 # Mars
 
