@@ -6,11 +6,11 @@ Levels are in place to set expectations to leadership, not to limit the power of
 
 Everyone must have Sun-level competency to advance onto the next competency level. While the order is recommended as Sun, Murcury, Venus, and Earth, a partner may elect to follow a different path according to desire and situation.
 
-- Sun (yellow): Levels, Gain, Setup / tear down, Applying presets, Basic routing
-- Murcury (silver): EQ
-- Venus (rose): Compression
-- Earth (blue): Common Effects
-- Mars (red): Routing
+- Core Knowledge: Levels, Gain, Setup / tear down, Applying presets, Basic routing
+- EQ
+- Compression
+- Common Effects
+- Routing
 
 # Sun
 
