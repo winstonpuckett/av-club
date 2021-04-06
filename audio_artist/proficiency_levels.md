@@ -28,6 +28,7 @@ Be able to run a Sunday morning service without assistance. If something goes ho
 - Basic Routing: Know how to add or remove instruments from the stage using predefined input numbers.
 - Soundcheck: Ask for a loud sound from each instrument individually. 
 - Phantom Power (48v): Describe which instruments might need this and how you might know.
+- Auxes: Be able to turn up/down instruments in the monitor and the live stream.
 
 # Murcury
 
