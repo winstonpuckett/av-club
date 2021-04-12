@@ -72,7 +72,7 @@ Be able to manipulate effects to provide more atmosphere
 - Demonstrate understanding of what happens to reverb when you're far from the speaker.
 - Demonstrate understanding of decay time, diffusion/dampening, hp/lp, predelay, size, 
 
-# Mars
+# Routing
 
 ## Expectations
 
