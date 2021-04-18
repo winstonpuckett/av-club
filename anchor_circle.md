@@ -44,6 +44,8 @@
 
 - James Bradburn
 - Bobby Puckett
+- Angelia Lundy
+- Teresa Kauffman
 
 <br>
 
@@ -53,10 +55,6 @@
 
 - To connect people and God by making sure the live visuals for the event forward the message and tone.
 
-## Currently filled by
-
-- ??
-
 <br>
 
 # Stream audiovisual artist
@@ -64,10 +62,6 @@
 ## Role pupose
 
 - To connect people and God by making sure the visuals and audio for what gets streamed is both intelligible and pleasing.
-
-## Currently filled by
-
-- ??
 
 <br>
 
@@ -78,6 +72,7 @@
 - To connect people and God by ensuring the community that consumes the stream feels loved, heard, and connected with.
 - To connect people and God by ensuring the community that consumes the stream feels safe.
 
-## Currently filled by
+<br>
+<br>
 
-- ??
+_Note: Because these roles are expected to be filled by the entire team, only roles which are filled by one or a subset of the team are notated with a "Currently filled by" section._
