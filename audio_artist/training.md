@@ -1,7 +1,7 @@
 # Session 1:
 
 Main Ideas:
-- Turning on the board
+- Turning on/off the board
 - Bringing up and down levels
 - Stream vs Main Mix vs Monitor
 
