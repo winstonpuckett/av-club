@@ -7,7 +7,8 @@ Main Ideas:
 
 Bonus Points:
 - Viewing channel numbers
-- Phantom Power
+- Phantom Power (48v)
+- Naming channels
 
 # Session 2:
 
